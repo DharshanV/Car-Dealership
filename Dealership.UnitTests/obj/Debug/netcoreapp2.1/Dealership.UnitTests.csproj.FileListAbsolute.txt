@@ -1,0 +1,19 @@
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\bin\Debug\netcoreapp2.1\Dealership.UnitTests.deps.json
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\bin\Debug\netcoreapp2.1\Dealership.UnitTests.runtimeconfig.json
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\bin\Debug\netcoreapp2.1\Dealership.UnitTests.runtimeconfig.dev.json
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\bin\Debug\netcoreapp2.1\Dealership.UnitTests.dll
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\bin\Debug\netcoreapp2.1\Dealership.UnitTests.pdb
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\obj\Debug\netcoreapp2.1\Dealership.UnitTests.csprojAssemblyReference.cache
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\obj\Debug\netcoreapp2.1\Dealership.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\obj\Debug\netcoreapp2.1\Dealership.UnitTests.AssemblyInfoInputs.cache
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\obj\Debug\netcoreapp2.1\Dealership.UnitTests.AssemblyInfo.cs
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\obj\Debug\netcoreapp2.1\Dealership.UnitTests.dll
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\obj\Debug\netcoreapp2.1\Dealership.UnitTests.pdb
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\bin\Debug\netcoreapp2.1\Mitchell International Coding Challenge.exe
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\bin\Debug\netcoreapp2.1\Mitchell International Coding Challenge.pdb
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\bin\Debug\netcoreapp2.1\Mitchell International Coding Challenge.exe.config
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\Dealership.UnitTests\obj\Debug\netcoreapp2.1\Dealership.UnitTests.csproj.CopyComplete

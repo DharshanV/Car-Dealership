@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mitchell International Coding Challenge", "Mitchell International Coding Challenge.csproj", "{29043B42-56F1-42F5-885B-6FFC9A00307A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dealership.UnitTests", "Dealership.UnitTests\Dealership.UnitTests.csproj", "{397D5395-CCC9-4653-BD79-F759B8DF9A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29043B42-56F1-42F5-885B-6FFC9A00307A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29043B42-56F1-42F5-885B-6FFC9A00307A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29043B42-56F1-42F5-885B-6FFC9A00307A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29043B42-56F1-42F5-885B-6FFC9A00307A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397D5395-CCC9-4653-BD79-F759B8DF9A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397D5395-CCC9-4653-BD79-F759B8DF9A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397D5395-CCC9-4653-BD79-F759B8DF9A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397D5395-CCC9-4653-BD79-F759B8DF9A43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27FF1E94-A3A2-4FC4-BA64-D484DFD38CEB}
+	EndGlobalSection
+EndGlobal

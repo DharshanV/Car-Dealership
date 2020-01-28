@@ -1,0 +1,7 @@
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\bin\Debug\Mitchell International Coding Challenge.exe.config
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\bin\Debug\Mitchell International Coding Challenge.exe
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\bin\Debug\Mitchell International Coding Challenge.pdb
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\obj\Debug\Mitchell International Coding Challenge.csprojAssemblyReference.cache
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\obj\Debug\Mitchell International Coding Challenge.csproj.CoreCompileInputs.cache
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\obj\Debug\Mitchell International Coding Challenge.exe
+C:\Users\ddvyu\OneDrive\Desktop\Projects\Mitchell International Coding Challenge\obj\Debug\Mitchell International Coding Challenge.pdb
